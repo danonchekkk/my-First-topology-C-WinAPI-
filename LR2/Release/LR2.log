@@ -1,0 +1,4 @@
+﻿  LR2.cpp
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(40,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(45,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+LINK : fatal error LNK1104: не удается открыть файл "C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\Release\LR2.exe"

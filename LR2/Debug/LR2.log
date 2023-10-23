@@ -1,0 +1,6 @@
+﻿  LR2.cpp
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(126,19): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(129,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(218,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(223,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+  LR2.vcxproj -> C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\Debug\LR2.exe

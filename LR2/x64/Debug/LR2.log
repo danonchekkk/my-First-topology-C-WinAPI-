@@ -1,0 +1,7 @@
+﻿  LR2.cpp
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(28,25): warning C4244: return: преобразование "LRESULT" в "long", возможна потеря данных
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(36,24): error C2440: =: невозможно преобразовать "long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" в "WNDPROC"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(36,24): message : Для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции в круглых скобках
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(40,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(45,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\Asus\Desktop\плюсы\САПРЫ\LR2\LR2.cpp(69,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
